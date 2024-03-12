@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eisyger
-- 👀 I’m interested in Games and Sport
-- 🌱 I’m currently learning Unity/Python/C#
+- 👀 I’m interested in Games and Sports
+- 🌱 I’m currently learning Python/C#/Unity
 
 
 <!---
